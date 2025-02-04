@@ -72,7 +72,7 @@ public class Simulador_SICXE {
                     limparConsole();
                     System.out.println("\t-----------------------Creditos-----------------------\n" +
                     "\tSimulador SIC/XE | Rock lee vs Gaara - Linkin park.amv\n" +
-                    "Arthur Alves (XXX)\t\tXXX.\n" +
+                    "Arthur Alves (Madara)\t\tXXX.\n" +
                     "Fabrício (XXX)\t\t\tXXX.\n" +
                     "Gabriel Moura (Shikamaru)\tDefinição e controle dos registradores e memória.\n" +
                     "Leonardo Braga (XXX)\t\tXXX.\n" +
